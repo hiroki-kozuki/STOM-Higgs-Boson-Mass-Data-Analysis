@@ -4,5 +4,5 @@
 - Investigated the properties of the Gaussian peaks (corresponding to the Higgs' signature back-to-back photon decays) superposed on background exponential decays. 
 
 Result:
-Simulated Higgs Boson rest mass = 125.1 +/- 1.2 GeV c^-2
-Reference Higgs Boson rest mass = 125.35 +/- 0.15 GeV c^-2
+- Simulated Higgs Boson rest mass = 125.1 +/- 1.2 GeV c^-2
+- Reference Higgs Boson rest mass = 125.35 +/- 0.15 GeV c^-2
